@@ -1,1 +1,2 @@
-# hack_whatsapp.sh
+To execute this code as an executable, you would need to save the HTML file as index.html, the CSS file as styles.css, and the JavaScript file as script.js. Place them in the same directory and open index.html in a web browser. Make sure to run it on a trusted environment to avoid any security risks.
+Please note that this is a simplified example and should not be used for any malicious purposes. Always obtain proper authorization before attempting any hacking activities.
